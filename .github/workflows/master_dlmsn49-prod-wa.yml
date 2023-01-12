@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DLMSN49-prod-wa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F6F242AB5DCB4B0A8890D67D0E9FD0FD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_570E4CE38FE34997905A675CE448C7C5 }}
           package: .
